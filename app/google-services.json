@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064519639005",
+    "firebase_url": "https://brainapp-1eb03.firebaseio.com",
+    "project_id": "brainapp-1eb03",
+    "storage_bucket": "brainapp-1eb03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064519639005:android:d7d8861a174bdc40d96034",
+        "android_client_info": {
+          "package_name": "com.kush.educationalapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064519639005-sicbpt7hem3v7ier04gc60fldhdq77m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjh55V1FmP4RmqZpXa_Y6da5z6oH6B3aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064519639005-sicbpt7hem3v7ier04gc60fldhdq77m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
